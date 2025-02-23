@@ -27,39 +27,31 @@ Key Performance Indicatos(KPIs):
 #### Insights
 Stats
 
-- 
-- 
-- 
-- 
+- Streaming timeline with average line
+- Chart with the most popular streaming day of the week
+- KPI's with month with most streams, day with most streams, most popular artist
 
 Wrapped
 
--
--
--
--
+- number of listening artists/albums/tracks and their growth compared to previous year
+- top 5 artists/albums/tracks in selected year
 
 Artist
 
-- 
--
--
--
+- Top 5 Trending Artists and Their Growth compared to previous year
+- Streaming timeline in selected year
+- Shuffle Song Ratio, Skip Song Ratio 
 
 Album
 
--
--
--
--
-
+- Donut chart with most popular reason start/end album in selected year 
+- Donut chart with most platform
+- Top 10 albums with number of tracks and sum of minutes
 
 
 #### Key Enhancements to Dashboard
 
-- bottmos between different categories
-- A tooltip showing diffrence between revenue after and before 5G on a pie chart
-- 'info' bottoms showing key informations in every page
-- Ranking standings city in current month and a comparison of how many places it moved up or down compared to the previous month
-- KPIs showing the diffrence in revenue (number and pct) compared to the previous month
+- buttons showing details
+- filters allow to compare statistics year to year 
+- KPIs showing the diffrence in crucial metrics (number and pct) compared to the previous month
 
